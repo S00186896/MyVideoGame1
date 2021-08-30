@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gamedatabase-13e2e": {
+      "hosting": {
+        "MyVideoGame": [
+          "gamedatabase-13e2e"
+        ]
+      }
+    }
+  }
+}
